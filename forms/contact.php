@@ -26,8 +26,8 @@
 
   $contact->smtp = array(
     'host' => 'mail.smtp2go.com',
-    'username' => 'contactnilayam',
-    'password' => 'Nilayam.in',
+    'username' => 'nilayam.in',
+    'password' => 'Kallingal@786',
     'port' => '2525'
   );
   */

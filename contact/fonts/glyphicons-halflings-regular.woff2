@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: fonts/glyphicons-halflings-regular.woff2</li>
+<li>RequestId: J1ZK8XZGS0RGS8HT</li>
+<li>HostId: W8cAl8jD2J2PYCEcc0VX4y8KQ9MoedKinHIfPix+4PDdWBRNyKm1UxOt1xaEhYMR2ujkHFsNtL8=</li>
+</ul>
+<hr>
+</body>
+</html>

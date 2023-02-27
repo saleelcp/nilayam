@@ -2157,18 +2157,19 @@ a.brand:focus{
 
 .experience-info .number{
   display: inline-block;
-  font-weight: 600;
+  color: #2b8ac7;
+  font-weight: 550;
   line-height: 1;
-  font-size: 10.71rem;
-  margin-right: 1.7rem;
+  font-size: 4rem;
+  margin-right: 2rem;
 }
 
 
 .experience-info .text{
   display: inline-block;
-  font-size: 1.571rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  line-height: 1.181;
+  line-height: .9;
   text-transform: uppercase;
 }
 
